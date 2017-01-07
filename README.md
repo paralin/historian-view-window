@@ -15,5 +15,5 @@ Adding or removing state stream will add or remove underlying remote view window
 Features
 ========
 
- - [ ] remote view window
- - [ ] remote view connection multiplexer
+ - [x] remote view window
+ - [x] remote view connection multiplexer
